@@ -5154,6 +5154,12 @@ K Step-Down DC-DC Switching Regulator High Voltage High Frequency
 F http://www.ti.com/lit/ds/symlink/tps54360.pdf
 $ENDCMP
 #
+$CMP TPS54521RHL
+D 5A SynchronousStep-Down Converter, Adjustable Output Voltage, 4.5-17V Input Voltage, QFN-16
+K dc-dc stepdown
+F https://www.ti.com/lit/ds/symlink/tps54521.pdf
+$ENDCMP
+#
 $CMP TPS560200
 D 500mA, Synchronous Step-Down Converter With, Adjustable Output Voltage, 4.5-17V Input Voltage, SOT-23-5
 K Voltage regulator switching buck fixed output analog
