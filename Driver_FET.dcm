@@ -846,6 +846,11 @@ K mosfet driver
 F http://www.st.com/resource/en/datasheet/pm8834.pdf
 $ENDCMP
 #
+$CMP PX3519
+D Synchronous Rectified Buck MOSFET driver IC
+K FET MOSFET Driver
+$ENDCMP
+#
 $CMP SM72295MA
 D Full Bridge Gate Driver with integrated Current Sense Amplifier, 3A, 115V, SOIC-28
 K Full Bridge Gate Driver
